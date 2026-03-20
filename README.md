@@ -1,4 +1,4 @@
-A PDF MERGER FOR THE PEOPLE WHO DON'T WANT TO UPLOAD THEIR PRIVATE DOCUMENTS TO THE INTERNET JUST TO MERGE 2 PDF WHY DO I NEED A SUSCRIPTION FOR THAT ADOBE
+A PDF merger for the people who don't want to upload their private documents to the internet just to merge 2 files, why do I need a suscription for that Adobe
 
 List of versions:
 
